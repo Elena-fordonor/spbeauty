@@ -1,1 +1,19 @@
 /* Временные стили добавлять здесь */
+.border {
+    width: 453px;
+    height: 420px;
+    left: 615px;
+    top: 146px;
+    border: 1px solid rgba(100, 116, 139, 0.12);
+border-radius: 8px;
+}
+
+.text-caption {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #94A3B8;
+
+}
