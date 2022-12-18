@@ -17,7 +17,7 @@ function SecondaryButton(props) {
             opacity: 0.8;
         }
         &:active {
-            background: #64748B;
+            background: rgba(100, 116, 139, 0.4);
         }
     `;
     return (

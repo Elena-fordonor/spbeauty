@@ -14,7 +14,7 @@ function PrimaryButton(props) {
         background: #3B82F6;
         border-radius: 24px;
         min-width: 217px;
-        color: white;ns rfr
+        color: white;
         &:hover {
             background: #3B82F6;
             opacity: 0.8;
